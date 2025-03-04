@@ -32,19 +32,15 @@ const Intro = () => {
               <small>10+ Completed Projects</small>
             </article>
           </div>
-          <p>
-            1+ years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+          <p style={{fontSize: '18px'}}>
+            I’m a full-stack developer driven by the thrill of crafting seamless and engaging digital experiences.
+            With a solid background in modern web technologies, I specialize in building robust, scalable, and maintainable applications. My toolkit includes <span style={{ fontSize: '20px', color: 'white'}}>JavaScript, TypeScript, React.js, Next.js, Redux Toolkit, RTK Query, NestJS, Node.js, TypeORM, PostgreSQL, MongoDB, Mongoose, WebSocket, and Socket.io</span>.
+            I take pride in delivering solutions that combine functionality with elegance, ensuring a smooth and consistent user experience across devices and platforms. Precision and clean, efficient code are at the core of my development philosophy.
+            Whether it’s designing responsive interfaces, optimizing backend processes, or connecting the dots in between, I’m here to turn ideas into reality. Let’s build something exceptional together!
           </p>
-          <a href="#contact" className="btn btn-primary">
+          {/* <a href="#contact" className="btn btn-primary">
             Let's Talk
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
